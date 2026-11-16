@@ -1,3 +1,7 @@
 
-*.css linguist-detectable=true linguist-generated=false linguist-vendored=false
-*.js linguist-detectable=true linguist-generated=false linguist-vendored=false
+*.html linguist-language=HTML
+*.css linguist-language=CSS linguist-detectable=true linguist-generated=false linguist-vendored=false
+*.js linguist-language=JavaScript linguist-detectable=true linguist-generated=false linguist-vendored=false
+style.css linguist-language=CSS
+script.js linguist-language=JavaScript
+
